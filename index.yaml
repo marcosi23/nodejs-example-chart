@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nodejs-example-chart:
+  - apiVersion: v2
+    appVersion: v1.0.3
+    created: "2023-10-25T21:15:23.514214233Z"
+    description: Este es nuestro template de la clase de EducacionIT
+    digest: 8d5a9537f8c6ec2a6577139de6075242b5f95eeae7169f7099a211788b097c97
+    name: nodejs-example-chart
+    type: application
+    urls:
+    - https://github.com/marcosi23/nodejs-example-chart/releases/download/nodejs-example-chart-0.1.4/nodejs-example-chart-0.1.4.tgz
+    version: 0.1.4
+generated: "2023-10-25T21:15:23.514220133Z"
